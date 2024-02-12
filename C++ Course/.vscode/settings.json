@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/C++/C++ basics",
+    "files.associations": {
+        "iostream": "cpp",
+        "new": "cpp"
+    }
+}
